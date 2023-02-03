@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aman
 - 👀 I’m interested in Coding and Mathematics.
-- 🌱 I’m currently learning Java and Unity.
-- 💞️ I’m looking to collaborate on unity projects.
+- 🌱 I’m currently learning C++ and DSA.
+- 💞️ I’m looking to collaborate on Front-End projects.
 - 📫 How to reach me aman.kumar.astro@gmail.com
 
 <!---
